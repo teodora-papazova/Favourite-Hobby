@@ -1,0 +1,28 @@
+table, th, td{
+    border: 1px solid;
+}
+table{
+    border-collapse: collapse;
+}
+.body{
+    font-family: Raleway;
+    background-image: url(./images/purple-gaming-nepi2tnxp6g0mvz9.jpg);
+    backdrop-filter: blur(5px);
+    height: 100vh;
+    margin: 0;
+}
+.wrapper{
+    background-color: rgb(125, 93, 222);
+    width: 300px;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+    margin-left: 600px;
+}
+a{
+    color:rgb(255, 180, 229)
+}
+.ul{
+    display: inline-block;
+    text-align: left;
+}
